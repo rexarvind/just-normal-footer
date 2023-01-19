@@ -112,4 +112,7 @@ footer a {
     .footer-inner-cols .footer-inner-col {
         width: calc(25% - 10px);
     }
+    .footer-inner-col-3 {
+        order: unset;
+    }
 }
