@@ -100,6 +100,14 @@ footer a {
         width: calc(33.33% - 10px);
     }
 }
+@media(min-width:1440px){
+    .footer-inner-cols .footer-inner-col {
+        width: calc(50% - 10px);
+    }
+    .footer-inner-col-3 {
+        order: 4;
+    }
+}
 @media(min-width:1920px){
     .footer-inner-cols .footer-inner-col {
         width: calc(25% - 10px);
