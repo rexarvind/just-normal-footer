@@ -23,6 +23,7 @@ body {
     margin-bottom: 16px;
     background: #969696;
     color: #121212;
+    max-width: 400px;
 }
 
 .btn {
